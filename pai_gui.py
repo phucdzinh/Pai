@@ -191,7 +191,7 @@ class VietnameseTypingGUI(QMainWindow):
             self.setAttribute(Qt.WA_TranslucentBackground)
 
         self.setFixedSize(w, h)
-        self.setWindowTitle("Vietnamese Typing")
+        self.setWindowTitle("Bộ gõ tiếng Việt - Pai")
 
         central = QWidget()
         self.setCentralWidget(central)
